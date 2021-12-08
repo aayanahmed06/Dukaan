@@ -1,0 +1,50 @@
+nav{
+    background-color:#1e272e ;
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    
+    
+}
+.animate__bounceIn{
+    color: white;
+    position: relative;
+    display: flex;
+}
+.nav-box a{
+    color: white;
+    text-decoration: none;
+    
+   margin: 10px;
+    position: relative;
+    left:300px;
+    text-align: center;
+    top: 20px;
+    
+    
+}
+
+.nav-box a:hover{
+    background-color:white;
+    color:black;
+    padding:10px;
+    border-radius:10px;
+}
+ 
+.heading{
+    text-align: center;
+    color: #303952;
+    margin: 100px;
+}
+
+.image img{
+    margin: 50px;
+    float: right;
+    width: 300px;
+    border: black 3px solid;
+    
+}
+.about-me-text{
+   padding:50px 150px;
+   
+}
